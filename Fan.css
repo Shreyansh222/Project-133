@@ -1,0 +1,23 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+li
+{
+background-color: darkcyan;
+color: wheat;
+border-color: darkcyan;
+margin-top: 44px;
+margin-left: 44px;
+box-shadow: 6px 6px 6px red;
+width: 80px;
+border-radius: 10px;
+}
+
+canvas
+{
+border-radius: 10px;
+box-shadow: 10px 10px 10px aqua;
+}

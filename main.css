@@ -1,0 +1,31 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.link
+{
+background: white;
+font-size: 20px;
+border-radius: 10px;
+width: 300px;
+margin-top: 15px;
+}
+
+.header
+{
+color: black;
+font-size: 25px;
+box-shadow: 5px 5px 5px rgb(61, 254, 255);
+}
+
+.header:hover
+{
+width: 220px;
+}
+
+.link:hover {
+font-size: 28px;
+text-decoration: underline;
+}
